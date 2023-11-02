@@ -7,7 +7,7 @@ This repo contains projects in the Kevin Hoffman Book.
 4. Others (I am yet to reach those other chapters)
 
 ## WHY?
-wasm might be the future of packaging truly portable software. Software that runs on any device. I see this as a basis for writing durable software.  
+wasm might be the future of packaging truly portable software. Software that runs on any device OR on top of other system-software. I see this as a basis for writing durable software.  
 It is like the final abstraction we need before venturing into programming matter.  
 
 So I begin here, understanding wasm on embedded devices... we will then move on to real matter... hopefully.
