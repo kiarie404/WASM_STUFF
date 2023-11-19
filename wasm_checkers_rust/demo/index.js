@@ -1,5 +1,5 @@
 
-fetch('./target/wasm32-unknown-unknown/release/wasm_checkers_rust.wasm').then(response =>
+fetch('./wasm_checkers_rust.wasm').then(response =>
     response.arrayBuffer()
 ).then(bytes => WebAssembly.instantiate(bytes, {
     env: {

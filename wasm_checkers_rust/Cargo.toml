@@ -12,3 +12,5 @@ crate-type = ["cdylib"]
 [target.wasm32-unknown-unknown]
 
 [dependencies]
+mut_static ={ version = "5.0.0"}
+lazy_static = "1.0.2"
